@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">AppCamera</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="swipe_left_for_register">Swipe Left for Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Email</string>
+    <string name="tagLogin">Let\'s join us and \nLogin Your Account</string>
+    <string name="tagRegister">Let\'s Register Your Account And \nGo Back To Login</string>
+    <string name="swipe_right_for_login">Swipe Right for Login</string>
+    <string name="register">Register</string>
+    <string name="your_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+
+    <string name="DesToko">Di Jamin Asli Dan Terpercaya</string>
+    <string name="Perlengkapan">Tipe Kamera 1. Canon, 2. Nikon, 3. Sony, 4. Lumix.</string>
+    <string name="Alamat">Jl.Malang No.31 Utara Alun - Alun Kota Malang</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawe</string>
+    <string name="deskription_canon">Canon Wedding dan portrait photographers, nature serta landscape shooters akan mengakui kecemerlangan dan kekuatan yang diberikan oleh EOS 5D Mark IV. mulus untuk pengambilan gambar video dan Live View. Operasi cepat ditingkatkan dengan Canon DIGIC 6+ Image Processor, yang memberikan pemotretan terus menerus hingga 7.0 fps *. Built-in Wi-Fi® , GPS dan LCD panel sentuh yang mudah dinavigasi memungkinkan kamera menjadi perpanjangan dari Anda. Ketika kualitas penting, EOS 5D Mark IV membantu memberikan hasil untuk menginspirasi bahkan imagemaker yang paling cerdas sekalipun.</string>
+    <string name="ingredients">Body Only And Lensa.</string>
+    <string name="Resep">Hitam Colour</string>
+    <string name="price">PRICE</string>
+    <string name="Harga_Kamera">Rp. 10.000.000.</string>
+
+    <string name="deskription_nikon">Nikon Wedding dan portrait photographers, nature serta landscape shooters akan mengakui kecemerlangan dan kekuatan yang diberikan oleh EOS 5D Mark IV. Kualitas gambar yang luar biasa dicapai dengan sensor full-frame 30,4 Megapixel Canon yang baru, dan video 4K yang sangat detail ditangkap dengan mudah. Keakuratan fokus telah ditingkatkan dengan sistem AF 61 titik yang disempurnakan dan Dual Pixel CMOS AF Canon yang revolusioner untuk AF yang cepat dan mulus untuk pengambilan gambar video dan Live View. Operasi cepat ditingkatkan dengan Canon DIGIC 6+ Image Processor, yang memberikan pemotretan terus menerus hingga 7.0 fps *. Built-in Wi-Fi® , GPS dan LCD panel sentuh yang mudah dinavigasi memungkinkan kamera menjadi perpanjangan dari Anda. Ketika kualitas penting, EOS 5D Mark IV membantu memberikan hasil untuk menginspirasi bahkan imagemaker yang paling cerdas sekalipun.</string>
+    <string name="ingredients1">Body Only And Lensa</string>
+    <string name="Resep1">" Silver Colour."</string>
+
+    <string name="deskription_sony">Sony Wedding dan portrait photographers, nature serta landscape shooters akan mengakui kecemerlangan dan kekuatan yang diberikan oleh EOS 5D Mark IV. Kualitas gambar yang luar biasa dicapai dengan sensor full-frame 30,4 Megapixel Canon yang baru, dan video 4K yang sangat detail ditangkap dengan mudah. Keakuratan fokus telah ditingkatkan dengan sistem AF 61 titik yang disempurnakan dan Dual Pixel CMOS AF Canon yang revolusioner untuk AF yang cepat dan mulus untuk pengambilan gambar video dan Live View. Operasi cepat ditingkatkan dengan Canon DIGIC 6+ Image Processor, yang memberikan pemotretan terus menerus hingga 7.0 fps *. Built-in Wi-Fi® , GPS dan LCD panel sentuh yang mudah dinavigasi memungkinkan kamera menjadi perpanjangan dari Anda. Ketika kualitas penting, EOS 5D Mark IV membantu memberikan hasil untuk menginspirasi bahkan imagemaker yang paling cerdas sekalipun.</string>
+    <string name="Resep2">Body Only</string>
+    <string name="ingredients2">Hitam Colour</string>
+    <string name="price1">Rp. 15.000.000</string>
+
+    <string name="deskription_lumix">Lumix Wedding dan portrait photographers, nature serta landscape shooters akan mengakui kecemerlangan dan kekuatan yang diberikan oleh EOS 5D Mark IV. Kualitas gambar yang luar biasa dicapai dengan sensor full-frame 30,4 Megapixel Canon yang baru, dan video 4K yang sangat detail ditangkap dengan mudah. Keakuratan fokus telah ditingkatkan dengan sistem AF 61 titik yang disempurnakan dan Dual Pixel CMOS AF Canon yang revolusioner untuk AF yang cepat dan mulus untuk pengambilan gambar video dan Live View. Operasi cepat ditingkatkan dengan Canon DIGIC 6+ Image Processor, yang memberikan pemotretan terus menerus hingga 7.0 fps *. Built-in Wi-Fi® , GPS dan LCD panel sentuh yang mudah dinavigasi memungkinkan kamera menjadi perpanjangan dari Anda. Ketika kualitas penting, EOS 5D Mark IV membantu memberikan hasil untuk menginspirasi bahkan imagemaker yang paling cerdas sekalipun.</string>
+    <string name="ingredients3">Body Only</string>
+    <string name="Resep3">Hitam And Silver Colour</string>
+    <string-array name="Kamera">
+        <item>Canon</item>
+        <item>Nikon</item>
+        <item>Sony</item>
+        <item>Lumix</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 10.000.000</item>
+        <item>Rp. 12.000.000</item>
+        <item>Rp. 15.000.000</item>
+        <item>Rp. 9.000.000</item>
+    </string-array>
+</resources>
